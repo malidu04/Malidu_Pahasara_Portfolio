@@ -39,15 +39,7 @@ It includes dedicated sections such as:
 **Deployment:**
 - Vercel 🌍 (for fast, serverless hosting)
 
----
 
-## 📸 Preview
-
-![Portfolio Screenshot](./preview.png)
-
-*(Rename your screenshot to `preview.png` and place it in the repo root for a GitHub preview.)*
-
----
 
 ## ⚙️ Setup Instructions
 
