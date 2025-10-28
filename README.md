@@ -3,7 +3,8 @@
 Welcome to my personal portfolio website!  
 This project showcases my **skills, education, and projects** as a passionate **Software Engineer** specializing in **full-stack web development** using modern technologies like **React, Node.js, and MongoDB**.
 
-![Uploading image.png…]()
+![Portfolio Screenshot](./preview.png)
+
 
 ---
 
